@@ -1,0 +1,2 @@
+# AIForFaultDetectionRepo
+AIForFaultDetectionRepo repository
